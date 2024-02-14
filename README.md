@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java Spring framework**
 
-- 👨‍💻 All of my projects are available at [github.com/OlAd46kA](github.com/OlAd46kA)
+- 👨‍💻 All of my projects are available at [github.com/OlAd46kA](github.com/OlAd46kA/repositories)
 
 - 📫 How to reach me **klim9210307@gmail.com**
 
