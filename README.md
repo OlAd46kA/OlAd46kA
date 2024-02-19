@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Artsiom Klimkovich</h1>
 <h3 align="center">I'm a student and begginer Java backend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olad46ka" alt="olad46ka" /></a> </p>
-
 - 🌱 I’m currently learning **Java Spring framework**
 
 - 👨‍💻 All of my projects are available at [OlAd46kA](https://github.com/OlAd46kA?tab=repositories)
