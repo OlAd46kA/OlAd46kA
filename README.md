@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java Spring framework**
 
-- 👨‍💻 All of my projects are available at [OlAd46kA](https://github.com/OlAd46kA?tab=repositories)
+- 👨‍💻 All of my projects are available at [ArtsiomKlimkovich](https://github.com/ArtsiomKlimkovich?tab=repositories)
 
 - 📫 How to reach me **klim9210307@gmail.com**
 
